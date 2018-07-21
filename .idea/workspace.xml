@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6aaeb15e-e2e6-4603-acbd-bf06a2939f32" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaConspect$Main_test__4_.ic" NAME="Main.test (4) Coverage Results" MODIFIED="1530045889113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.eis.conspect.java.rest.unirest.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaConspect" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TestWithParametersFromDataProviders.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProviders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataProviders.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="23" column="103" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="2386" column="19" selection-start-line="2386" selection-start-column="19" selection-end-line="2386" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreatingConnection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/db/jdbc/CreatingConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadProperties.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/properties/ReadProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/db/jdbc/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="props.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/db/jdbc/source/props.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataProvider.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/annotations/DataProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prop</find>
+      <find>econdTest3()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>dbProperties</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/casting/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/iterator/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/data.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/vk/mapper/Mapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/ResponseList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/model/ResponseList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/vk/Mapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/logger/CustomLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/vk/Starter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/jdbc/CreatingConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/jdbc/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/optional/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/logger/CustomLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/serialization/jaxb/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/db/jdbc/ProcessingRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/testng/testng/testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/Example1/FirstTestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/Example1/SecondTestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/testng/testng/testng-package.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/testng/testng/testng-class.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/FirstTestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/SecondTestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/ThirdTestClass.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/assertion/FirstTestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/order/Example1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/FirstTestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/SecondTestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/ThirdTestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-class.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-groups.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-method.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-package.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/order/Example1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/assertion/FirstTestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParameters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/properties/testng-parameters.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromXML.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProviders.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.data" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/db/jdbc/CreatingConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/properties/ReadProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaConspect" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaConspect" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaConspect" type="616d4139:PackageViewModuleNode" />
+              <item name="com.eis.conspect.java" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="LOG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="parameters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="parameters" type="462c0819:PsiDirectoryNode" />
+              <item name="dataProvider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="run" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file://C:/JavaFile/JavaConspect/pom.xml&#10;java.lang.String&#9;PSI&#9;JAVA://java.lang.String&#10;RequestAddCookies&#9;PSI&#9;JAVA://org.apache.http.client.protocol.RequestAddCookies&#10;FilenameUtils&#9;FILE&#9;jar://C:/Users/User/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar!/org/apache/commons/io/FilenameUtils.java&#10;StaticLoggerBinder&#9;PSI&#9;JAVA://org.slf4j.impl.StaticLoggerBinder&#10;Logg&#9;PSI&#9;JAVA://java.util.logging.Logger&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;gutter&#9;ACTION&#9;EditorToggleShowGutterIcons&#10;Seria&#9;FILE&#9;file://C:/JavaFile/JavaConspect/src/main/java/com/eis/conspect/java/serialization" />
+    <property name="last_opened_file_path" value="C:/Development/Projects/Blue Owl/cicd-test" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testing\testng" />
+      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testng\testng" />
+      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java\se\casting" />
+      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java\se" />
+      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.eis.conspect.java.testing.testng.example1.assertion" />
+      <recent name="com.eis.conspect.java.testing.testng.example1" />
+      <recent name="com.eis.conspect.java.serialization.jaxb" />
+      <recent name="com.eis.conspect.java.serialization.jaxb.adapter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testing\testng\run" />
+      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java\serialization\jaxb\files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="C:/JavaFile/JavaConspect/src/test/java/resources/testing/testng/properties/testng-parameters.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/testing/testng/properties/testng-parameters.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="C:/JavaFile/JavaConspect/src/test/java/resources/testing/testng/testng-groups.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-groups.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="C:/JavaFile/JavaConspect/src/test/java/resources/testing/testng/testng-package.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-package.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="FirstTestClass" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.testing.testng.example1.assertion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.testng.example1.assertion" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.testng.example1.assertion.FirstTestClass" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="FirstTestClass.testSoftAssert" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.testing.testng.example1.assertion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.testng.example1.assertion" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.testng.example1.assertion.FirstTestClass" />
+      <option name="METHOD_NAME" value="testSoftAssert" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Starter.test (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.rest.unirest.vk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.rest.unirest.vk" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.rest.unirest.vk.Starter" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestWithParametersFromDataProviders.testWithParameters" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.testing.testng.parameters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.testng.parameters" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.testng.parameters.TestWithParametersFromDataProviders" />
+      <option name="METHOD_NAME" value="testWithParameters" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestWithParametersFromDataProviders.testWithParameters" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.testing.testng.parameters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.testng.parameters" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.testng.parameters.TestWithParametersFromDataProviders" />
+      <option name="METHOD_NAME" value="testWithParameters" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.FirstTestClass" />
+      <item itemvalue="TestNG.FirstTestClass.testSoftAssert" />
+      <item itemvalue="TestNG.C:/JavaFile/JavaConspect/src/test/java/resources/testing/testng/properties/testng-parameters.xml" />
+      <item itemvalue="TestNG.TestWithParametersFromDataProviders.testWithParameters" />
+      <item itemvalue="TestNG.TestWithParametersFromDataProviders.testWithParameters" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestWithParametersFromDataProviders.testWithParameters" />
+        <item itemvalue="TestNG.TestWithParametersFromDataProviders.testWithParameters" />
+        <item itemvalue="TestNG.C:/JavaFile/JavaConspect/src/test/java/resources/testing/testng/properties/testng-parameters.xml" />
+        <item itemvalue="TestNG.FirstTestClass.testSoftAssert" />
+        <item itemvalue="TestNG.FirstTestClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6aaeb15e-e2e6-4603-acbd-bf06a2939f32" name="Default" comment="" />
+      <created>1529526925951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529526925951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="C__JavaFile_JavaConspect_src_test_java_resources_testing_testng_properties_testng-parameters_xml - 2018.07.21 at 18h 41m 37s.xml">
+      <configuration name="C:/JavaFile/JavaConspect/src/test/java/resources/testing/testng/properties/testng-parameters.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__JavaFile_JavaConspect_src_test_java_resources_testing_testng_properties_testng-parameters_xml - 2018.07.21 at 18h 42m 23s.xml">
+      <configuration name="C:/JavaFile/JavaConspect/src/test/java/resources/testing/testng/properties/testng-parameters.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__JavaFile_JavaConspect_src_test_java_resources_testing_testng_properties_testng-parameters_xml - 2018.07.21 at 18h 43m 50s.xml">
+      <configuration name="C:/JavaFile/JavaConspect/src/test/java/resources/testing/testng/properties/testng-parameters.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWithParametersFromDataProvider_testWithParameters - 2018.07.21 at 18h 52m 59s.xml">
+      <configuration name="TestWithParametersFromDataProvider.testWithParameters" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWithParametersFromDataProvider_testWithParameters_(1) - 2018.07.21 at 18h 58m 44s.xml">
+      <configuration name="TestWithParametersFromDataProvider.testWithParameters (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWithParametersFromDataProvider_testWithParameters - 2018.07.21 at 19h 07m 08s.xml">
+      <configuration name="TestWithParametersFromDataProvider.testWithParameters" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWithParametersFromDataProviders_testWithParameters - 2018.07.21 at 19h 15m 55s.xml">
+      <configuration name="TestWithParametersFromDataProviders.testWithParameters" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWithParametersFromDataProviders_testWithParameters - 2018.07.21 at 19h 27m 00s.xml">
+      <configuration name="TestWithParametersFromDataProviders.testWithParameters" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWithParametersFromDataProviders_testWithParameters - 2018.07.21 at 19h 31m 03s.xml">
+      <configuration name="TestWithParametersFromDataProviders.testWithParameters" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWithParametersFromDataProviders_testWithParameters - 2018.07.21 at 19h 40m 01s.xml">
+      <configuration name="TestWithParametersFromDataProviders.testWithParameters" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32943678" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.38779956" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49862638" weight="0.32995737" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.46187365" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36819172" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2771855" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" sideWeight="0.5058651" side_tool="true" weight="0.3671875" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.36165577" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32135075" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.21002132" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.5086207" side_tool="true" visible="true" weight="0.20682302" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50265676" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36819172" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.38779956" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32943678" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+      <window_info id="Favorites" order="5" sideWeight="0.5058651" side_tool="true" weight="0.3671875" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/optional/Main.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/vk/Mapper.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/ThirdTestClass.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/assertion/FirstTestClass.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/assertion/FirstTestClass.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/assertion/FirstTestClass.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="51" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).entrySet()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).values()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).getIterator(1).next()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).getIterator(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).elements().nextElement()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).elements()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).stringPropertyNames()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-sources.jar!/com/sun/jna/platform/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.4/commons-io-2.4-sources.jar!/org/apache/commons/io/FilenameUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.io/2.4/org.apache.commons.io-2.4.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.jar!/org/apache/http/client/protocol/RequestAddCookies.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/vk/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/org/slf4j/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8755">
+          <caret line="583" selection-start-line="583" selection-end-line="583" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/optional/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="114" selection-start-line="21" selection-start-column="114" selection-end-line="21" selection-end-column="114" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LOG/log.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/serialization/jaxb/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/vk/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/vk/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/logger/CustomLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/db/jdbc/ProcessingRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/casting/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/AssertionError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="2221" column="18" selection-start-line="2221" selection-start-column="18" selection-end-line="2221" selection-end-column="18" />
+          <folding>
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/ThirdTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/SecondTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+          <folding>
+            <element signature="e#2637#2638#0" expanded="true" />
+            <element signature="e#2680#2681#0" expanded="true" />
+            <element signature="e#13366#13367#0" expanded="true" />
+            <element signature="e#13412#13413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/MatcherAssert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/FirstTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="187" column="9" selection-start-line="187" selection-start-column="9" selection-end-line="187" selection-end-column="9" />
+          <folding>
+            <element signature="e#9422#9423#0" expanded="true" />
+            <element signature="e#9472#9473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/assertion/FirstTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/example1/order/Example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/testing/testng/run/testng-groups.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/testing/testng/run/testng-package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/assertion/FirstTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/SecondTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/ThirdTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/FirstTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/order/OrderExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/testing/testng/properties/testng-properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/testing/testng/run/testng-method.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/testing/testng/run/testng-class.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/testing/testng/properties/testng-parameters.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromXML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="5" selection-start-line="7" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/annotations/DataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="2386" column="19" selection-start-line="2386" selection-start-column="19" selection-end-line="2386" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/com/sun/media/sound/Platform.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="94" column="24" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/properties/ReadProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/db/jdbc/CreatingConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/db/jdbc/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/db/jdbc/source/props.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="23" column="103" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProviders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

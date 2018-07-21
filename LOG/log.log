@@ -1,0 +1,10 @@
+2018-07-14 16:09:30,776  INFO main c.e.c.j.r.u.v.Starter:getUsersGet:34 Request : 
+https://api.vk.com/method/users.get?access_token=8f67abb2fa5c8d2e27e154d169ff7d25065be3a2aea6a1c5aa682613b3399dfdde216396a9ec722881511&v=5.8&user_id=123124
+2018-07-14 16:09:33,391  INFO main c.e.c.j.r.u.v.Starter:getUsersGet:40 Response : 
+{
+  "response" : [ {
+    "last_name" : "Первый",
+    "id" : 123124,
+    "first_name" : "Санька"
+  } ]
+}
