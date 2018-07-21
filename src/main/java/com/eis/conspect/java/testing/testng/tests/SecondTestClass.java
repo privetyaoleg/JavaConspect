@@ -1,4 +1,4 @@
-package com.eis.conspect.java.testing.testng;
+package com.eis.conspect.java.testing.testng.tests;
 
 import org.testng.annotations.Test;
 

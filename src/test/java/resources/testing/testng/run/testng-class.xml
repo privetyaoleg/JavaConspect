@@ -3,8 +3,8 @@
 <suite name="Suite 1" verbose="1">
     <test name="Test Suite">
         <classes>
-            <class name="com.eis.conspect.java.testing.testng.FirstTestClass"/>
-            <class name="com.eis.conspect.java.testing.testng.SecondTestClass"/>
+            <class name="com.eis.conspect.java.testing.testng.tests.FirstTestClass"/>
+            <class name="com.eis.conspect.java.testing.testng.tests.SecondTestClass"/>
         </classes>
     </test>
 </suite>
