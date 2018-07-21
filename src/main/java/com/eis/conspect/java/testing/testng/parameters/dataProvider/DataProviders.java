@@ -49,4 +49,3 @@ public class DataProviders {
         return "password" + new Random().nextInt(10000);
     }
 }
-

@@ -1,4 +1,4 @@
-package com.eis.conspect.java.testing.testng.example1.assertion;
+package com.eis.conspect.java.testing.testng.assertion;
 
 import org.hamcrest.MatcherAssert;
 import org.testng.Assert;

@@ -17,8 +17,8 @@ public class Main {
 
     public static void main(String[] args) throws JAXBException {
 
-        Model modelToXml = createNewEntity();
-        marshallingModel(modelToXml);
+        Model model = createNewEntity();
+        File xmlWithModel = marshallingModel(model);
 
         Model modelFromXml = unmarshallingModel(new Model(), jaxbTestXml);
 
@@ -28,21 +28,24 @@ public class Main {
 
     //----------------------------------------------------------------------------------------------------------------//
 
+    /**
+     *      Model -> XML
+     */
     public static <T> File marshallingModel(T model) throws JAXBException {
 
         File newFile = new File("src/main/java/com/eis/conspect/java/serialization/jaxb/files/"
                 + Model.class.getSimpleName() + Math.abs(new Random().nextInt()) + ".xml");
-        JAXBContext jc = JAXBContext.newInstance(model.getClass());
-        Marshaller marshaller = jc.createMarshaller();
+        Marshaller marshaller = JAXBContext.newInstance(model.getClass()).createMarshaller();
         marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
         marshaller.marshal(model, newFile);
         return newFile;
     }
 
+    /**
+     *      XML -> Model
+     */
     public static <T> T unmarshallingModel(T model, File xmlFile) throws JAXBException {
-
-        JAXBContext jc = JAXBContext.newInstance(model.getClass());
-        Unmarshaller unmarshaller = jc.createUnmarshaller();
+        Unmarshaller unmarshaller = JAXBContext.newInstance(model.getClass()).createUnmarshaller();
         model = (T) unmarshaller.unmarshal(xmlFile);
         return model;
     }
