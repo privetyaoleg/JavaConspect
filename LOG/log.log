@@ -1,10 +1,10 @@
-2018-07-14 16:09:30,776  INFO main c.e.c.j.r.u.v.Starter:getUsersGet:34 Request : 
-https://api.vk.com/method/users.get?access_token=8f67abb2fa5c8d2e27e154d169ff7d25065be3a2aea6a1c5aa682613b3399dfdde216396a9ec722881511&v=5.8&user_id=123124
-2018-07-14 16:09:33,391  INFO main c.e.c.j.r.u.v.Starter:getUsersGet:40 Response : 
+2018-07-21 21:58:58,919  INFO main c.e.c.j.r.u.v.Starter:getUsersGet:33 Request : 
+https://api.vk.com/method/users.get?access_token=8f67abb2fa5c8d2e27e154d169ff7d25065be3a2aea6a1c5aa682613b3399dfdde216396a9ec722881511&v=5.8&user_id=126624
+2018-07-21 21:59:00,303  INFO main c.e.c.j.r.u.v.Starter:getUsersGet:38 Response : 
 {
   "response" : [ {
-    "last_name" : "Первый",
-    "id" : 123124,
-    "first_name" : "Санька"
+    "last_name" : "Шабаев",
+    "id" : 126624,
+    "first_name" : "Иван"
   } ]
 }

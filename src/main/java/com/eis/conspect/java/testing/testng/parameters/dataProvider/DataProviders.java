@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.IntStream;
 
-import static utils.properties.ReadProperties.readProperties;
+import static utils.properties.PropertiesHelper.readProperties;
 
 public class DataProviders {
 

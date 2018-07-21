@@ -26,19 +26,16 @@ public class Mapper {
 
     public static List<User> getUsersGet(String id) throws Exception {
 
-        HttpResponse<JsonNode> response = null;
         String request = Unirest.get(BASE_URL)
                 .routeParam("method", USERS_GET)
                 .queryString(getRequiredData())
                 .queryString("user_id", id).getUrl();
         log.info("Request : \n{}", request);
-//        System.out.println(request);
 
-        response = Unirest.get(request).asJson();
+        HttpResponse<JsonNode> response = Unirest.get(request).asJson();
 
         Object json = getMapper().readValue(response.getBody().toString(), Object.class);
         log.info("Response : \n{}", getMapper().writerWithDefaultPrettyPrinter().writeValueAsString(json));
-//        System.out.println(getMapper().writerWithDefaultPrettyPrinter().writeValueAsString(json));
 
         return MAPPER.readValue(response.getBody().getObject().get("response").toString(),
                 TypeFactory.defaultInstance().constructCollectionType(List.class, User.class));
@@ -61,7 +58,7 @@ public class Mapper {
     }
 
     private static Map<String, Object> getRequiredData() {
-        Map<String, Object> data = new HashMap<String, Object>();
+        Map<String, Object> data = new HashMap<>();
         data.put("access_token", ACCESS_TOKEN);
         data.put("v", "5.8");
         return data;

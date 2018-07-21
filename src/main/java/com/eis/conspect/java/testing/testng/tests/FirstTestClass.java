@@ -2,6 +2,7 @@ package com.eis.conspect.java.testing.testng.tests;
 
 import org.testng.annotations.Test;
 
+@Test // All methods will be tests except of private
 public class FirstTestClass {
 
     /*
@@ -28,5 +29,4 @@ public class FirstTestClass {
         System.out.println("regression");
         System.out.println("------------------------");
     }
-
 }
