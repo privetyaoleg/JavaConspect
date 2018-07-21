@@ -24,20 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestWithParametersFromDataProviders.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestWithParametersFromDataProviders.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProviders.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="112">
+              <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataProviders.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DataProviders.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="23" column="103" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
+            <state relative-caret-position="262">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -186,7 +186,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -302,18 +302,6 @@
               <item name="testing" type="462c0819:PsiDirectoryNode" />
               <item name="testng" type="462c0819:PsiDirectoryNode" />
               <item name="parameters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-              <item name="parameters" type="462c0819:PsiDirectoryNode" />
-              <item name="dataProvider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
@@ -686,9 +674,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__JavaFile_JavaConspect_src_test_java_resources_testing_testng_properties_testng-parameters_xml - 2018.07.21 at 18h 41m 37s.xml">
-      <configuration name="C:/JavaFile/JavaConspect/src/test/java/resources/testing/testng/properties/testng-parameters.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__JavaFile_JavaConspect_src_test_java_resources_testing_testng_properties_testng-parameters_xml - 2018.07.21 at 18h 42m 23s.xml">
       <configuration name="C:/JavaFile/JavaConspect/src/test/java/resources/testing/testng/properties/testng-parameters.xml" configurationId="TestNG" />
     </history-entry>
@@ -716,10 +701,12 @@
     <history-entry file="TestWithParametersFromDataProviders_testWithParameters - 2018.07.21 at 19h 40m 01s.xml">
       <configuration name="TestWithParametersFromDataProviders.testWithParameters" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestWithParametersFromDataProviders_testWithParameters - 2018.07.21 at 19h 40m 43s.xml">
+      <configuration name="TestWithParametersFromDataProviders.testWithParameters" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -730,18 +717,18 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.38779956" />
       <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49862638" weight="0.32995737" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.46187365" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36819172" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.29847494" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4019608" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2771855" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2771855" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" sideWeight="0.5058651" side_tool="true" weight="0.3671875" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.36165577" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36165577" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -820,12 +807,6 @@
           <line>29</line>
           <properties />
           <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="51" />
@@ -1238,17 +1219,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProviders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="23" column="103" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
+        <state relative-caret-position="112">
+          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProviders.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="262">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
