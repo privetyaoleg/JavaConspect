@@ -1,24 +1,40 @@
 package com.eis.conspect.java.java8.optional;
 
+import org.testng.annotations.Test;
+
 import java.util.Optional;
 import java.util.function.Function;
 
+import static org.testng.Assert.assertEquals;
+
 public class Main {
 
-    public static void main(String[] args) {
+    @Test
+    public void testOptional() {
 
-        Function<String, String> getSecondWord = (String s) -> {
-            return s.split(" ").length > 1 ? s.split(" ")[1] : null;
-        };
-
+        Function<String, String> getSecondWord = (String s) -> s.split(" ").length > 1 ? s.split(" ")[1] : null;
         Function<String, Integer> getLetterCount = t -> t.length();
 
-        getSecondWord.andThen(getLetterCount).apply("Hello world");
+        int resultNoNull = Optional.ofNullable(getSecondWord.apply("Hello world!")).map(getLetterCount).get();
+        assertEquals(resultNoNull, 6);
 
-        Optional<String> op = Optional.ofNullable(getSecondWord.apply("Hell"));
+        int resultNull = Optional.ofNullable(getSecondWord.apply("world!")).map(getLetterCount).orElse(666);
+        assertEquals(resultNull, 666);
+    }
+
+    @Test
+    public void testOptionalNull() {
+        Optional<String> op = Optional.ofNullable(null);
         op.ifPresent(System.out::println);
-        System.out.println(op.orElse("new value"));
 
-        Optional.ofNullable(getSecondWord.apply("Hello bybe")).map(getLetterCount).ifPresent(System.out::println);
+        assertEquals( op.orElse("new value"), "new value");
+    }
+
+    @Test
+    public void testOptionalNotNull() {
+        Optional<String> op = Optional.ofNullable("old value");
+        op.ifPresent(System.out::println);
+
+        assertEquals(op.get(), "old value");
     }
 }

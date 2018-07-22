@@ -19,8 +19,6 @@ public class Main {
 
 		 */
 
-
-
         int x = 100;
         short s = (short) x; 			// следует явно указывать, так как int > short;
 
