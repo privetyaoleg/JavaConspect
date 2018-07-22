@@ -10,7 +10,8 @@ public class Main {
         Thread thread2 = new Thread(new MyThread1());
         thread2.start();
 
-        Runnable thread3 = () -> IntStream.rangeClosed(1, 10).forEach(x -> System.out.println(Thread.currentThread().getName() + " " + x));
+        Runnable thread3 = () -> IntStream.rangeClosed(1, 10).forEach(x -> System.out.println(Thread
+                .currentThread().getName() + " " + x));
         thread3.run();
     }
 }
