@@ -5,14 +5,14 @@
 
 package utils.logger;
 
-import java.io.File;
-import java.io.IOException;
-
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.FilenameUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import toolkit.config.PropertyProvider;
+
+import java.io.File;
+import java.io.IOException;
 
 public class CustomLogger {
     private static final ThreadLocal<String> LOG_FILE_PATH = new ThreadLocal();
@@ -35,7 +35,7 @@ public class CustomLogger {
         try {
             className = Class.forName((new Throwable()).getStackTrace()[2].getClassName()).toString();
         } catch (Exception var2) {
-            ;
+
         }
 
         return LoggerFactory.getLogger(className);

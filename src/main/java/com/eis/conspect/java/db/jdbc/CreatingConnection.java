@@ -1,29 +1,21 @@
 package com.eis.conspect.java.db.jdbc;
 
-import org.slf4j.Logger;
-import utils.logger.CustomLogger;
-
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
 import java.util.Properties;
 
+import static utils.properties.PropertiesHelper.readProperties;
 
 public class CreatingConnection {
 
-    public static Logger log = CustomLogger.getInstance();
+    private static final String DB_PROPERTIES_PATH = "src/main/java/com/eis/conspect/java/db/jdbc/source/props.properties";
 
-    public static Connection getConnection(String propPath) {
+    public static Connection getConnection() {
         Connection connection = null;
         try {
-            Properties dbProperties = readProperties(propPath);
+            Properties dbProperties = readProperties(DB_PROPERTIES_PATH);
 
             Class.forName("com.mysql.cj.jdbc.Driver");
-
-            log.info("Driver loading success!");
-
             connection = DriverManager.getConnection(dbProperties.getProperty("url"),
                     dbProperties.getProperty("login"),
                     dbProperties.getProperty("password"));
@@ -32,13 +24,4 @@ public class CreatingConnection {
         }
         return connection;
     }
-
-    private static Properties readProperties(String path) throws IOException {
-        File file = new File(path);
-        InputStream in = new FileInputStream(file);
-        Properties properties = new Properties();
-        properties.load(in);
-        return properties;
-    }
-
 }
