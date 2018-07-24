@@ -34,7 +34,7 @@ public class TerminalMethods {
      * Возвращает количество элементов в stream
      */
     @Test
-    public void testСount() {
+    public void testCount() {
         List<Integer> intList = Arrays.asList(1, -23, 0, 523, 100, 23, -40, 3);
         long count = intList.stream().count();
         assertThat(count).isEqualTo(intList.size());
