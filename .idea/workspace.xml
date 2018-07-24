@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aaeb15e-e2e6-4603-acbd-bf06a2939f32" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/IntStreamSummaryStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java" afterDir="false" />
     </list>
     <ignored path="out/" />
     <ignored path="target/" />
@@ -33,15 +35,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RuleExample1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/RuleExample1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/serialization/jaxb/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreationStream.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CreationStream.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+            <state relative-caret-position="482">
+              <caret line="35" column="73" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -72,17 +65,26 @@
       <file leaf-file-name="StreamSimpleMethods.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="28" selection-start-line="28" selection-end-line="29" />
+            <state relative-caret-position="1040">
+              <caret line="65" column="48" lean-forward="true" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TerminalMethods.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TerminalMethods.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="184">
+              <caret line="95" column="41" lean-forward="true" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntStreamSummaryStatistics.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/IntStreamSummaryStatistics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -118,7 +120,7 @@
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/ToIntFunction.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="422">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -151,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-class.xml" />
         <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-groups.xml" />
         <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-method.xml" />
         <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-package.xml" />
@@ -199,9 +200,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/optional/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/CreatingStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/CreationStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/IntStreamSummaryStatistics.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java" />
       </list>
     </option>
   </component>
@@ -404,7 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TerminalMethods.testFindAny (3)">
+  <component name="RunManager" selected="TestNG.TerminalMethods.testReduce">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -450,6 +452,64 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="IntStreamSummaryStatistics.testSum (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.IntStreamSummaryStatistics" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="IntStreamSummaryStatistics.testSum" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.IntStreamSummaryStatistics" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="Starter.test (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
@@ -479,7 +539,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TerminalMethods.testFindAny (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TerminalMethods.testReduce (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
@@ -492,7 +552,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
       <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.TerminalMethods" />
-      <option name="METHOD_NAME" value="testFindAny" />
+      <option name="METHOD_NAME" value="testReduce" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -508,7 +568,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TerminalMethods.testFindAny (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TerminalMethods.testReduce" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
@@ -521,7 +581,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
       <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.TerminalMethods" />
-      <option name="METHOD_NAME" value="testFindAny" />
+      <option name="METHOD_NAME" value="testReduce" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -537,7 +597,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TerminalMethods.testFindAny (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TerminalMethods.testSum" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
@@ -550,65 +610,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
       <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.TerminalMethods" />
-      <option name="METHOD_NAME" value="testFindAny" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="TerminalMethods.testFindAny (5)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaConspect" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.TerminalMethods" />
-      <option name="METHOD_NAME" value="testFindAny" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="TerminalMethods.testFindAny" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaConspect" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.TerminalMethods" />
-      <option name="METHOD_NAME" value="testFindAny" />
+      <option name="METHOD_NAME" value="testSum" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -676,19 +678,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.TerminalMethods.testFindAny (3)" />
-      <item itemvalue="TestNG.TerminalMethods.testFindAny (4)" />
-      <item itemvalue="TestNG.TerminalMethods.testFindAny (5)" />
-      <item itemvalue="TestNG.TerminalMethods.testFindAny" />
-      <item itemvalue="TestNG.TerminalMethods.testFindAny (1)" />
+      <item itemvalue="TestNG.TerminalMethods.testReduce" />
+      <item itemvalue="TestNG.TerminalMethods.testReduce (1)" />
+      <item itemvalue="TestNG.TerminalMethods.testSum" />
+      <item itemvalue="TestNG.IntStreamSummaryStatistics.testSum" />
+      <item itemvalue="TestNG.IntStreamSummaryStatistics.testSum (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TerminalMethods.testFindAny (3)" />
-        <item itemvalue="TestNG.TerminalMethods.testFindAny (1)" />
-        <item itemvalue="TestNG.TerminalMethods.testFindAny" />
-        <item itemvalue="TestNG.TerminalMethods.testFindAny (5)" />
-        <item itemvalue="TestNG.TerminalMethods.testFindAny (4)" />
+        <item itemvalue="TestNG.TerminalMethods.testReduce" />
+        <item itemvalue="TestNG.IntStreamSummaryStatistics.testSum" />
+        <item itemvalue="TestNG.IntStreamSummaryStatistics.testSum (1)" />
+        <item itemvalue="TestNG.TerminalMethods.testSum" />
+        <item itemvalue="TestNG.TerminalMethods.testReduce (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -745,39 +747,46 @@
       <option name="project" value="LOCAL" />
       <updated>1532294505641</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Stream add new terminal methods">
+      <created>1532413380644</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532413380644</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TerminalMethods_testFindFirst_(1) - 2018.07.23 at 23h 33m 03s.xml">
-      <configuration name="TerminalMethods.testFindFirst (1)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testReduce - 2018.07.24 at 21h 15m 52s.xml">
+      <configuration name="TerminalMethods.testReduce" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testFindFirst_(2) - 2018.07.23 at 23h 34m 19s.xml">
-      <configuration name="TerminalMethods.testFindFirst (2)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testSum - 2018.07.24 at 21h 19m 58s.xml">
+      <configuration name="TerminalMethods.testSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testFindAny - 2018.07.23 at 23h 40m 16s.xml">
-      <configuration name="TerminalMethods.testFindAny" configurationId="TestNG" />
+    <history-entry file="IntStreamSummaryStatistics_testSum - 2018.07.24 at 21h 30m 09s.xml">
+      <configuration name="IntStreamSummaryStatistics.testSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testFindAny_(1) - 2018.07.23 at 23h 40m 47s.xml">
-      <configuration name="TerminalMethods.testFindAny (1)" configurationId="TestNG" />
+    <history-entry file="IntStreamSummaryStatistics_testSum - 2018.07.24 at 21h 35m 09s.xml">
+      <configuration name="IntStreamSummaryStatistics.testSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testFindAny_(3) - 2018.07.23 at 23h 40m 47s.xml">
-      <configuration name="TerminalMethods.testFindAny (3)" configurationId="TestNG" />
+    <history-entry file="IntStreamSummaryStatistics_testSum - 2018.07.24 at 21h 35m 34s.xml">
+      <configuration name="IntStreamSummaryStatistics.testSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testFindAny_(2) - 2018.07.23 at 23h 40m 47s.xml">
-      <configuration name="TerminalMethods.testFindAny (2)" configurationId="TestNG" />
+    <history-entry file="IntStreamSummaryStatistics_testSum - 2018.07.24 at 21h 35m 55s.xml">
+      <configuration name="IntStreamSummaryStatistics.testSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testFindAny_(4) - 2018.07.24 at 09h 15m 37s.xml">
-      <configuration name="TerminalMethods.testFindAny (4)" configurationId="TestNG" />
+    <history-entry file="IntStreamSummaryStatistics_testSum_(1) - 2018.07.24 at 21h 36m 01s.xml">
+      <configuration name="IntStreamSummaryStatistics.testSum (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testFindAny - 2018.07.24 at 09h 20m 08s.xml">
-      <configuration name="TerminalMethods.testFindAny" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testReduce_(1) - 2018.07.24 at 21h 36m 01s.xml">
+      <configuration name="TerminalMethods.testReduce (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testFindAny_(1) - 2018.07.24 at 09h 20m 31s.xml">
-      <configuration name="TerminalMethods.testFindAny (1)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testReduce - 2018.07.24 at 21h 36m 01s.xml">
+      <configuration name="TerminalMethods.testReduce" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testFindAny_(5) - 2018.07.24 at 09h 22m 27s.xml">
-      <configuration name="TerminalMethods.testFindAny (5)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testReduce - 2018.07.24 at 21h 38m 31s.xml">
+      <configuration name="TerminalMethods.testReduce" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -801,12 +810,12 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.40130863" />
       <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49862638" weight="0.32995737" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.25299892" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2257361" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.3762268" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3217012" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.40130863" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2228145" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2228145" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.2675906" />
@@ -906,7 +915,8 @@
     <MESSAGE value="JUnit topic add" />
     <MESSAGE value="JUnit parameters add" />
     <MESSAGE value="Stream add new topic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream add new topic" />
+    <MESSAGE value="Stream add new terminal methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream add new terminal methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -929,18 +939,29 @@
           <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java</url>
-          <line>98</line>
-          <properties />
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="63" />
+      <option name="time" value="69" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>IntSummaryStatistics intSummaryStatistics1 = intList.stream().mapToInt(x -&gt; x).summaryStatistics();
+ intSummaryStatistics1.getAverage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntSummaryStatistics intSummaryStatistics = intList.stream().mapToInt(x -&gt; x).summaryStatistics();
+ intSummaryStatistics.getAverage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntSummaryStatistics intSummaryStatistics = intList.stream().mapToInt(x -&gt; x).summaryStatistics();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>intList.stream().filter(z -&gt; z &gt; 0).findAny()</expression-string>
         <language-id>JAVA</language-id>
@@ -974,41 +995,9 @@ intList2.stream().findFirst().orElse(50);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(null, -23, 0, 523);
-intList2.stream().findFirst()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(null, -23, 0, 523);
-        Integer x2 = intList2.stream().findFirst()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(null, -23, 0, 523);
-        Integer x2 = intList2.stream().findFirst().orElse(50);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/FixMethodOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/clone/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-472">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/iterator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-443">
@@ -1303,24 +1292,10 @@ intList2.stream().findFirst()</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/ToIntFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="28" selection-start-line="28" selection-end-line="29" />
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1345,10 +1320,38 @@ intList2.stream().findFirst()</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="646" column="16" selection-start-line="646" selection-start-column="16" selection-end-line="646" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="65" column="48" lean-forward="true" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/IntStreamSummaryStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="184">
+          <caret line="95" column="41" lean-forward="true" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="35" column="73" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
         </state>
       </provider>
     </entry>
