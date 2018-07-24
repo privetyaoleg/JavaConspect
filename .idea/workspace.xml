@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aaeb15e-e2e6-4603-acbd-bf06a2939f32" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/RuleExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java" afterDir="false" />
     </list>
     <ignored path="out/" />
     <ignored path="target/" />
@@ -36,42 +33,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/overloading/Example1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/overloading/Main1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/primitive/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RuleExample1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/RuleExample1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,17 +63,62 @@
       <file leaf-file-name="CreationStream.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
+            <state relative-caret-position="612">
               <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StreamSimpleMethods.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StreamSimpleMethods.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="376">
+              <caret line="28" selection-start-line="28" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TerminalMethods.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReferencePipeline.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/ReferencePipeline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="463" selection-start-line="463" selection-end-line="463" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindOps.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/FindOps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="151" selection-start-line="151" selection-end-line="151" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Invoker.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/Invoker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="1207" selection-start-line="1207" selection-end-line="1207" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToIntFunction.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/ToIntFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -132,9 +138,11 @@
       <find>prop</find>
       <find>econdTest3()</find>
       <find>junit</find>
+      <find>peekCollection</find>
     </findStrings>
     <replaceStrings>
       <replace>dbProperties</replace>
+      <replace>peekList</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -143,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/ThirdTestClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-class.xml" />
         <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-groups.xml" />
         <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-method.xml" />
@@ -194,6 +201,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/CreationStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java" />
       </list>
     </option>
   </component>
@@ -299,6 +307,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
               <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="creation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
               <item name="methods" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -385,7 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.StreamSimpleMethods.testDistinct (1)">
+  <component name="RunManager" selected="TestNG.TerminalMethods.testFindAny (3)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -460,7 +479,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="StreamSimpleMethods.testDistinct (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TerminalMethods.testFindAny (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
@@ -472,8 +491,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.StreamSimpleMethods" />
-      <option name="METHOD_NAME" value="testDistinct" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.TerminalMethods" />
+      <option name="METHOD_NAME" value="testFindAny" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -489,7 +508,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="StreamSimpleMethods.testDistinct (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TerminalMethods.testFindAny (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
@@ -501,8 +520,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.StreamSimpleMethods" />
-      <option name="METHOD_NAME" value="testDistinct" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.TerminalMethods" />
+      <option name="METHOD_NAME" value="testFindAny" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -518,7 +537,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="StreamSimpleMethods.testDistinct (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TerminalMethods.testFindAny (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
@@ -530,8 +549,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.StreamSimpleMethods" />
-      <option name="METHOD_NAME" value="testDistinct" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.TerminalMethods" />
+      <option name="METHOD_NAME" value="testFindAny" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -547,7 +566,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="StreamSimpleMethods.testMap (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TerminalMethods.testFindAny (5)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
@@ -559,8 +578,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.StreamSimpleMethods" />
-      <option name="METHOD_NAME" value="testMap" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.TerminalMethods" />
+      <option name="METHOD_NAME" value="testFindAny" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -576,7 +595,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="StreamSimpleMethods.testMap" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TerminalMethods.testFindAny" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
@@ -588,8 +607,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.StreamSimpleMethods" />
-      <option name="METHOD_NAME" value="testMap" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.TerminalMethods" />
+      <option name="METHOD_NAME" value="testFindAny" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -657,19 +676,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.StreamSimpleMethods.testDistinct (1)" />
-      <item itemvalue="TestNG.StreamSimpleMethods.testDistinct (2)" />
-      <item itemvalue="TestNG.StreamSimpleMethods.testMap" />
-      <item itemvalue="TestNG.StreamSimpleMethods.testMap (1)" />
-      <item itemvalue="TestNG.StreamSimpleMethods.testDistinct (3)" />
+      <item itemvalue="TestNG.TerminalMethods.testFindAny (3)" />
+      <item itemvalue="TestNG.TerminalMethods.testFindAny (4)" />
+      <item itemvalue="TestNG.TerminalMethods.testFindAny (5)" />
+      <item itemvalue="TestNG.TerminalMethods.testFindAny" />
+      <item itemvalue="TestNG.TerminalMethods.testFindAny (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.StreamSimpleMethods.testDistinct (1)" />
-        <item itemvalue="TestNG.StreamSimpleMethods.testDistinct (3)" />
-        <item itemvalue="TestNG.StreamSimpleMethods.testMap (1)" />
-        <item itemvalue="TestNG.StreamSimpleMethods.testMap" />
-        <item itemvalue="TestNG.StreamSimpleMethods.testDistinct (2)" />
+        <item itemvalue="TestNG.TerminalMethods.testFindAny (3)" />
+        <item itemvalue="TestNG.TerminalMethods.testFindAny (1)" />
+        <item itemvalue="TestNG.TerminalMethods.testFindAny" />
+        <item itemvalue="TestNG.TerminalMethods.testFindAny (5)" />
+        <item itemvalue="TestNG.TerminalMethods.testFindAny (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -719,39 +738,46 @@
       <option name="project" value="LOCAL" />
       <updated>1532267754167</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Stream add new topic">
+      <created>1532294505641</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532294505641</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StreamSimpleMethods_testFilter_(1) - 2018.07.23 at 00h 08m 55s.xml">
-      <configuration name="StreamSimpleMethods.testFilter (1)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testFindFirst_(1) - 2018.07.23 at 23h 33m 03s.xml">
+      <configuration name="TerminalMethods.testFindFirst (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StreamSimpleMethods_testFilter_(2) - 2018.07.23 at 00h 09m 12s.xml">
-      <configuration name="StreamSimpleMethods.testFilter (2)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testFindFirst_(2) - 2018.07.23 at 23h 34m 19s.xml">
+      <configuration name="TerminalMethods.testFindFirst (2)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StreamSimpleMethods_testSkip_(2) - 2018.07.23 at 00h 10m 09s.xml">
-      <configuration name="StreamSimpleMethods.testSkip (2)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testFindAny - 2018.07.23 at 23h 40m 16s.xml">
+      <configuration name="TerminalMethods.testFindAny" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StreamSimpleMethods_testDistinct - 2018.07.23 at 00h 12m 26s.xml">
-      <configuration name="StreamSimpleMethods.testDistinct" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testFindAny_(1) - 2018.07.23 at 23h 40m 47s.xml">
+      <configuration name="TerminalMethods.testFindAny (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StreamSimpleMethods_testDistinct_(1) - 2018.07.23 at 00h 12m 36s.xml">
-      <configuration name="StreamSimpleMethods.testDistinct (1)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testFindAny_(3) - 2018.07.23 at 23h 40m 47s.xml">
+      <configuration name="TerminalMethods.testFindAny (3)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StreamSimpleMethods_testDistinct_(2) - 2018.07.23 at 00h 12m 56s.xml">
-      <configuration name="StreamSimpleMethods.testDistinct (2)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testFindAny_(2) - 2018.07.23 at 23h 40m 47s.xml">
+      <configuration name="TerminalMethods.testFindAny (2)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StreamSimpleMethods_testMap - 2018.07.23 at 00h 16m 50s.xml">
-      <configuration name="StreamSimpleMethods.testMap" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testFindAny_(4) - 2018.07.24 at 09h 15m 37s.xml">
+      <configuration name="TerminalMethods.testFindAny (4)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StreamSimpleMethods_testMap_(1) - 2018.07.23 at 00h 17m 06s.xml">
-      <configuration name="StreamSimpleMethods.testMap (1)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testFindAny - 2018.07.24 at 09h 20m 08s.xml">
+      <configuration name="TerminalMethods.testFindAny" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StreamSimpleMethods_testDistinct_(3) - 2018.07.23 at 00h 17m 37s.xml">
-      <configuration name="StreamSimpleMethods.testDistinct (3)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testFindAny_(1) - 2018.07.24 at 09h 20m 31s.xml">
+      <configuration name="TerminalMethods.testFindAny (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StreamSimpleMethods_testDistinct_(1) - 2018.07.23 at 00h 17m 48s.xml">
-      <configuration name="StreamSimpleMethods.testDistinct (1)" configurationId="TestNG" />
+    <history-entry file="TerminalMethods_testFindAny_(5) - 2018.07.24 at 09h 22m 27s.xml">
+      <configuration name="TerminalMethods.testFindAny (5)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -775,14 +801,15 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.40130863" />
       <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49862638" weight="0.32995737" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.2868048" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.36641222" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.25299892" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2257361" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.40130863" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2228145" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.26812366" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.2675906" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -790,7 +817,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37186477" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -879,7 +905,8 @@
     <MESSAGE value="Array topic refactoring" />
     <MESSAGE value="JUnit topic add" />
     <MESSAGE value="JUnit parameters add" />
-    <option name="LAST_COMMIT_MESSAGE" value="JUnit parameters add" />
+    <MESSAGE value="Stream add new topic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream add new topic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -902,88 +929,72 @@
           <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="57" />
+      <option name="time" value="63" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>resultSet.getMetaData().</expression-string>
+        <expression-string>intList.stream().filter(z -&gt; z &gt; 0).findAny()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>op.orElse(&quot;123&quot;).;</expression-string>
+        <expression-string>intList.stream().filter(z -&gt; z &gt; 0).findAny().get();</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>op.orElse(&quot;123&quot;);</expression-string>
+        <expression-string>intList.stream().findAny().get();</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;)</expression-string>
+        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(null, -23, 0, 523);
+intList2.stream().findFirst().orElse(50);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).entrySet()</expression-string>
+        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(4, -23, 0, 523);
+intList2.stream().findFirst().orElse(50);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).</expression-string>
+        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(0, -23, 0, 523);
+intList2.stream().findFirst().orElse(50);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).values()</expression-string>
+        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(null, -23, 0, 523);
+intList2.stream().findFirst()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).getIterator(1).next()</expression-string>
+        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(null, -23, 0, 523);
+        Integer x2 = intList2.stream().findFirst()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).getIterator(1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>readProperties(&quot;src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/users.properties&quot;).elements().nextElement()</expression-string>
+        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(null, -23, 0, 523);
+        Integer x2 = intList2.stream().findFirst().orElse(50);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LOG/log.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.IdeaIC2018.1/system/temp-testng-customsuite.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/resources/testing/testng/properties/testng-parameters.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/MethodSorters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/FixMethodOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -1285,13 +1296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.8.0/assertj-core-3.8.0-sources.jar!/org/assertj/core/api/Assertions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37568">
@@ -1299,10 +1303,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/ToIntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="376">
+          <caret line="28" selection-start-line="28" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="1207" selection-start-line="1207" selection-end-line="1207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/ReferencePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="463" selection-start-line="463" selection-end-line="463" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/FindOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
         </state>
       </provider>
     </entry>
