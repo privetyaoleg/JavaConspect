@@ -109,6 +109,4 @@ public class StreamSimpleMethods {
         List<Integer> eachWordLengthList = stringList.stream().mapToInt(String::length).boxed().collect(Collectors.toList());
         assertThat(eachWordLengthList).isEqualTo(Arrays.asList(1, 5, 6, 5, 5, 4, 3));
     }
-
-
 }

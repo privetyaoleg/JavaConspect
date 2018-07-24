@@ -22,6 +22,4 @@ public class IntStreamSummaryStatistics {
         assertThat(intSummaryStatistics.getMin()).isEqualTo(-40);
         assertThat(intSummaryStatistics.getSum()).isEqualTo(587);
     }
-
-
 }
