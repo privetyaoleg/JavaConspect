@@ -7,6 +7,10 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+
+import static toolkit.verification.CustomAssertions.assertThat;
 
 public class Example1 {
 
@@ -25,8 +29,37 @@ public class Example1 {
                 .mapToInt(Person::getAge)
                 .summaryStatistics()
                 .getAverage();
-        double result = new BigDecimal(averageAge).setScale(2, RoundingMode.UP).doubleValue();
-        System.out.println("Average age people's from Mexico = " + result);
+        double peopleFromUS = new BigDecimal(averageAge).setScale(2, RoundingMode.UP).doubleValue();
+        System.out.println("Average age people's from Mexico = " + peopleFromUS);
+    }
+
+    @Test
+    public void sortUSAndNonUSPersons() {
+        Map<Boolean, List<Person>> peopleFromUS = persons.stream().collect(Collectors.groupingBy(x -> x.getCountry().equals("US")));
+
+        peopleFromUS.get(true).forEach(person -> assertThat(person.getCountry()).isEqualTo("US"));
+        peopleFromUS.get(false).forEach(person -> assertThat(person.getCountry()).isNotEqualTo("US"));
+        assertThat(peopleFromUS.get(false).size()).isEqualTo(5);
+        assertThat(peopleFromUS.get(true).size()).isEqualTo(3);
+
+        /**
+         GroupingBy collector is used for grouping objects by some property and storing results in a Map instance.
+
+         PartitioningBy is a specialized case of groupingBy that accepts a Predicate instance and collects Stream
+         elements into a Map instance that stores Boolean values as keys and collections as values. Under the “true”
+         key, you can find a collection of elements matching the given Predicate, and under the “false” key, you can
+         find a collection of elements not matching the given Predicate.
+         */
+        Map<Boolean, Long> countFromUS = persons.stream().collect(Collectors.groupingBy(c -> c.getCountry().equals("US"), Collectors.counting()));
+
+        Map<String, Long> countryCount = persons.stream().collect(Collectors.groupingBy(c -> c.getCountry(), Collectors.counting()));
+
+        Map<String, List<Person>> countryCount1 = persons.stream().collect(Collectors.groupingBy(c -> c.getCountry()));
+
+        Map<String, Double> countryAverageAge = persons.stream().collect(Collectors.groupingBy(Person::getCountry,
+                Collectors.averagingDouble(Person::getAge)));
+
+
     }
 
 

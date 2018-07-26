@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aaeb15e-e2e6-4603-acbd-bf06a2939f32" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/Examples/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TestModels/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/CollectorsMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/Examples/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/Examples/Example1.java" afterDir="false" />
     </list>
     <ignored path="out/" />
     <ignored path="target/" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="CreationStream.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="464">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -45,8 +45,8 @@
       <file leaf-file-name="StreamSimpleMethods.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="496">
+              <caret line="110" column="5" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -54,8 +54,8 @@
       <file leaf-file-name="TerminalMethods.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="192">
+              <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -63,26 +63,26 @@
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TestModels/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="304">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/Examples/Example1.java">
+      <file leaf-file-name="CollectorsMethods.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/CollectorsMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            <state relative-caret-position="408">
+              <caret line="39" column="98" selection-start-line="39" selection-start-column="98" selection-end-line="39" selection-end-column="98" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stream.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/Stream.java">
+      <file leaf-file-name="Collectors.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/Collectors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="168" column="14" selection-start-line="168" selection-start-column="14" selection-end-line="168" selection-end-column="14" />
+            <state relative-caret-position="177">
+              <caret line="803" column="4" selection-start-line="803" selection-start-column="4" selection-end-line="803" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -90,35 +90,8 @@
       <file leaf-file-name="IntStreamSummaryStatistics.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/IntStreamSummaryStatistics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReferencePipeline.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/ReferencePipeline.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="463" selection-start-line="463" selection-end-line="463" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindOps.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/FindOps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="151" selection-start-line="151" selection-end-line="151" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Invoker.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/Invoker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="1207" selection-start-line="1207" selection-end-line="1207" />
+            <state relative-caret-position="384">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -154,8 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/testng-package.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/order/Example1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParameters.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromXML.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProvider.java" />
@@ -199,12 +170,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/optional/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/CreatingStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/CreationStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/IntStreamSummaryStatistics.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TestModels/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/IntStreamSummaryStatistics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/Collectors.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/Examples/Example1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/CollectorsMethods.java" />
       </list>
     </option>
   </component>
@@ -341,18 +314,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-              <item name="methods" type="462c0819:PsiDirectoryNode" />
-              <item name="TestModels" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="serialization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -387,6 +348,36 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -394,8 +385,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Suppl&#9;PSI&#9;JAVA://java.util.function.Supplier&#10;pom&#9;FILE&#9;file://C:/JavaFile/JavaConspect/pom.xml&#10;java.lang.String&#9;PSI&#9;JAVA://java.lang.String&#10;RequestAddCookies&#9;PSI&#9;JAVA://org.apache.http.client.protocol.RequestAddCookies&#10;FilenameUtils&#9;FILE&#9;jar://C:/Users/User/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar!/org/apache/commons/io/FilenameUtils.java&#10;StaticLoggerBinder&#9;PSI&#9;JAVA://org.slf4j.impl.StaticLoggerBinder&#10;Logg&#9;PSI&#9;JAVA://java.util.logging.Logger&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;gutter&#9;ACTION&#9;EditorToggleShowGutterIcons&#10;Seria&#9;FILE&#9;file://C:/JavaFile/JavaConspect/src/main/java/com/eis/conspect/java/serialization" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="SearchEverywhereHistoryKey" value="Function&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/Function.java&#10;Suppl&#9;PSI&#9;JAVA://java.util.function.Supplier&#10;pom&#9;FILE&#9;file://C:/JavaFile/JavaConspect/pom.xml&#10;java.lang.String&#9;PSI&#9;JAVA://java.lang.String&#10;RequestAddCookies&#9;PSI&#9;JAVA://org.apache.http.client.protocol.RequestAddCookies&#10;FilenameUtils&#9;FILE&#9;jar://C:/Users/User/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar!/org/apache/commons/io/FilenameUtils.java&#10;StaticLoggerBinder&#9;PSI&#9;JAVA://org.slf4j.impl.StaticLoggerBinder&#10;Logg&#9;PSI&#9;JAVA://java.util.logging.Logger&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;gutter&#9;ACTION&#9;EditorToggleShowGutterIcons&#10;Seria&#9;FILE&#9;file://C:/JavaFile/JavaConspect/src/main/java/com/eis/conspect/java/serialization" />
+    <property name="last_opened_file_path" value="C:/Development/Projects/Blue Owl/cicd-test" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
@@ -430,7 +421,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Example1.averageAgeFromMexico (3)">
+  <component name="RunManager" selected="TestNG.CollectorsMethods.testGroupingByPredicate">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -476,20 +467,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Example1.averageAgeFromMexico (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectorsMethods.testGroupingByOnlyPredicate" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.Examples.*" />
+          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods.Examples" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.Examples.Example1" />
-      <option name="METHOD_NAME" value="averageAgeFromMexico" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.CollectorsMethods" />
+      <option name="METHOD_NAME" value="testGroupingByOnlyPredicate" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -505,20 +496,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Example1.averageAgeFromMexico (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectorsMethods.testGroupingByPredicate (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.Examples.*" />
+          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods.Examples" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.Examples.Example1" />
-      <option name="METHOD_NAME" value="averageAgeFromMexico" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.CollectorsMethods" />
+      <option name="METHOD_NAME" value="testGroupingByPredicate" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -534,20 +525,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Example1.averageAgeFromMexico (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectorsMethods.testGroupingByPredicate" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.Examples.*" />
+          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods.Examples" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.Examples.Example1" />
-      <option name="METHOD_NAME" value="averageAgeFromMexico" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.CollectorsMethods" />
+      <option name="METHOD_NAME" value="testGroupingByPredicate" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -563,7 +554,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Example1.averageAgeFromMexico" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Example1.testJoining (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
@@ -576,7 +567,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods.Examples" />
       <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.Examples.Example1" />
-      <option name="METHOD_NAME" value="averageAgeFromMexico" />
+      <option name="METHOD_NAME" value="testJoining" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -592,7 +583,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Example1.exampleOne" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Example1.testJoining" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
@@ -605,7 +596,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods.Examples" />
       <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.Examples.Example1" />
-      <option name="METHOD_NAME" value="exampleOne" />
+      <option name="METHOD_NAME" value="testJoining" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -702,19 +693,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.Example1.exampleOne" />
-      <item itemvalue="TestNG.Example1.averageAgeFromMexico" />
-      <item itemvalue="TestNG.Example1.averageAgeFromMexico (1)" />
-      <item itemvalue="TestNG.Example1.averageAgeFromMexico (2)" />
-      <item itemvalue="TestNG.Example1.averageAgeFromMexico (3)" />
+      <item itemvalue="TestNG.Example1.testJoining" />
+      <item itemvalue="TestNG.Example1.testJoining (1)" />
+      <item itemvalue="TestNG.CollectorsMethods.testGroupingByOnlyPredicate" />
+      <item itemvalue="TestNG.CollectorsMethods.testGroupingByPredicate" />
+      <item itemvalue="TestNG.CollectorsMethods.testGroupingByPredicate (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Example1.averageAgeFromMexico (3)" />
-        <item itemvalue="TestNG.Example1.averageAgeFromMexico (2)" />
-        <item itemvalue="TestNG.Example1.averageAgeFromMexico (1)" />
-        <item itemvalue="TestNG.Example1.averageAgeFromMexico" />
-        <item itemvalue="TestNG.Example1.exampleOne" />
+        <item itemvalue="TestNG.CollectorsMethods.testGroupingByPredicate" />
+        <item itemvalue="TestNG.CollectorsMethods.testGroupingByPredicate (1)" />
+        <item itemvalue="TestNG.CollectorsMethods.testGroupingByOnlyPredicate" />
+        <item itemvalue="TestNG.Example1.testJoining (1)" />
+        <item itemvalue="TestNG.Example1.testJoining" />
       </list>
     </recent_temporary>
   </component>
@@ -792,39 +783,46 @@
       <option name="project" value="LOCAL" />
       <updated>1532460141922</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Stream topic">
+      <created>1532464734963</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1532464734963</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntStreamSummaryStatistics_testSum - 2018.07.24 at 21h 35m 55s.xml">
-      <configuration name="IntStreamSummaryStatistics.testSum" configurationId="TestNG" />
+    <history-entry file="Example1_sortUSAndNonUSPersons - 2018.07.25 at 20h 13m 05s.xml">
+      <configuration name="Example1.sortUSAndNonUSPersons" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="IntStreamSummaryStatistics_testSum_(1) - 2018.07.24 at 21h 36m 01s.xml">
-      <configuration name="IntStreamSummaryStatistics.testSum (1)" configurationId="TestNG" />
+    <history-entry file="Example1_sortUSAndNonUSPersons - 2018.07.25 at 20h 23m 01s.xml">
+      <configuration name="Example1.sortUSAndNonUSPersons" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testReduce_(1) - 2018.07.24 at 21h 36m 01s.xml">
-      <configuration name="TerminalMethods.testReduce (1)" configurationId="TestNG" />
+    <history-entry file="Example1_sortUSAndNonUSPersons - 2018.07.25 at 20h 32m 40s.xml">
+      <configuration name="Example1.sortUSAndNonUSPersons" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testReduce - 2018.07.24 at 21h 36m 01s.xml">
-      <configuration name="TerminalMethods.testReduce" configurationId="TestNG" />
+    <history-entry file="Example1_sortUSAndNonUSPersons - 2018.07.25 at 20h 49m 42s.xml">
+      <configuration name="Example1.sortUSAndNonUSPersons" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods_testReduce - 2018.07.24 at 21h 38m 31s.xml">
-      <configuration name="TerminalMethods.testReduce" configurationId="TestNG" />
+    <history-entry file="Example1_sortUSAndNonUSPersons_(1) - 2018.07.25 at 23h 19m 16s.xml">
+      <configuration name="Example1.sortUSAndNonUSPersons (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TerminalMethods - 2018.07.24 at 22h 24m 26s.xml">
-      <configuration name="TerminalMethods" configurationId="TestNG" />
+    <history-entry file="Example1_testJoining - 2018.07.25 at 23h 27m 31s.xml">
+      <configuration name="Example1.testJoining" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example1_exampleOne - 2018.07.24 at 23h 23m 37s.xml">
-      <configuration name="Example1.exampleOne" configurationId="TestNG" />
+    <history-entry file="Example1_testJoining_(1) - 2018.07.25 at 23h 27m 51s.xml">
+      <configuration name="Example1.testJoining (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example1_exampleOne - 2018.07.24 at 23h 26m 50s.xml">
-      <configuration name="Example1.exampleOne" configurationId="TestNG" />
+    <history-entry file="CollectorsMethods_testGroupingByOnlyPredicate - 2018.07.25 at 23h 35m 54s.xml">
+      <configuration name="CollectorsMethods.testGroupingByOnlyPredicate" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example1_averageAgeFromMexico - 2018.07.24 at 23h 32m 21s.xml">
-      <configuration name="Example1.averageAgeFromMexico" configurationId="TestNG" />
+    <history-entry file="CollectorsMethods_testGroupingByPredicate - 2018.07.25 at 23h 45m 38s.xml">
+      <configuration name="CollectorsMethods.testGroupingByPredicate" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example1_averageAgeFromMexico_(1) - 2018.07.24 at 23h 34m 43s.xml">
-      <configuration name="Example1.averageAgeFromMexico (1)" configurationId="TestNG" />
+    <history-entry file="CollectorsMethods_testGroupingByPredicate_(1) - 2018.07.25 at 23h 50m 31s.xml">
+      <configuration name="CollectorsMethods.testGroupingByPredicate (1)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -842,18 +840,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3293348" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32929516" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.40130863" />
       <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49862638" weight="0.32995737" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.28462377" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3217012" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32061067" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.40130863" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" weight="0.36105034" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.24466951" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.2675906" />
@@ -861,7 +859,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" sideWeight="0.5058651" side_tool="true" weight="0.3671875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37186477" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.36750272" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -978,12 +976,38 @@
           <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/CollectorsMethods.java</url>
+          <line>39</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="69" />
+      <option name="time" value="75" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>persons.stream()
+        .collect(Collectors.groupingBy(c -&gt; c.getCountry().equals(&quot;US&quot;), Collectors.));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>persons.stream()
+        .collect(Collectors.groupingBy(c -&gt; c.getCountry().equals(&quot;US&quot;), Collectors.toList()));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>persons.stream()
+        .collect(Collectors.groupingBy(c -&gt; c.getCountry().equals(&quot;US&quot;), Collectors.counting()));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>IntSummaryStatistics intSummaryStatistics1 = intList.stream().mapToInt(x -&gt; x).summaryStatistics();
  intSummaryStatistics1.getAverage()</expression-string>
@@ -1022,56 +1046,16 @@ intList2.stream().findFirst().orElse(50);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
+    </expressions>
+    <expressions id="watch">
       <expression>
-        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(4, -23, 0, 523);
-intList2.stream().findFirst().orElse(50);</expression-string>
+        <expression-string>persons.stream().collect(Collectors.groupingBy(c -&gt; c.getCountry().equals(&quot;US&quot;), Collectors.counting()));</expression-string>
         <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>List&lt;Integer&gt; intList2 = Arrays.asList(0, -23, 0, 523);
-intList2.stream().findFirst().orElse(50);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/string/string/StringReverseWays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-424">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/vararg/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/casting/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -1345,31 +1329,52 @@ intList2.stream().findFirst().orElse(50);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="496">
+          <caret line="110" column="5" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/IntStreamSummaryStatistics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="384">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/StreamSimpleMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="464">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TerminalMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="192">
+          <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1380,17 +1385,31 @@ intList2.stream().findFirst().orElse(50);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TestModels/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/Examples/Example1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="536">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/Examples/Example1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/TestModels/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        <state relative-caret-position="304">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/methods/CollectorsMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="39" column="98" selection-start-line="39" selection-start-column="98" selection-end-line="39" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="803" column="4" selection-start-line="803" selection-start-column="4" selection-end-line="803" selection-end-column="4" />
         </state>
       </provider>
     </entry>
