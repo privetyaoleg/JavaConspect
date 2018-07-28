@@ -1,4 +1,4 @@
-package com.eis.conspect.java.testing.junit.rule.single;
+package com.eis.conspect.java.testing.junit.rule.examples.first;
 
 import org.junit.rules.ExternalResource;
 import org.openqa.selenium.*;
@@ -22,7 +22,7 @@ public class WebDriverRule extends ExternalResource implements WebDriver, TakesS
     }
 
     @Override
-    protected void before() throws Throwable {
+    protected void before() {
         System.out.println("Starting browser...");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
@@ -96,5 +96,11 @@ public class WebDriverRule extends ExternalResource implements WebDriver, TakesS
     @Override
     public <X> X getScreenshotAs(OutputType<X> outputType) throws WebDriverException {
         return ((TakesScreenshot) driver).getScreenshotAs(outputType);
+    }
+
+    public void startFreshDriver() {
+        System.out.println("Stopping old browser...");
+        driver.quit();
+        driver = new ChromeDriver();
     }
 }

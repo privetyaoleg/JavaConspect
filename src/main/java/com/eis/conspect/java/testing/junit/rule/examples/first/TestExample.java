@@ -1,4 +1,4 @@
-package com.eis.conspect.java.testing.junit.rule.single;
+package com.eis.conspect.java.testing.junit.rule.examples.first;
 
 import org.junit.Test;
 

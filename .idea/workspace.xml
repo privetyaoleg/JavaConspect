@@ -2,29 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aaeb15e-e2e6-4603-acbd-bf06a2939f32" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/ExternalResourceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/TemporaryFolderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/TestWatcherExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/ScreenshotRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/SeleniumFixture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/TestExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/User.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/User.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/FreshDriverRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TwiceAttemptRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/annotations/NeedFreshDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaConspect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConspect.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/RuleExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/WebDriverRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/ThreadCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/ScreenshotRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/ScreenshotRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/SeleniumFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/SeleniumFixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/TestExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/TestExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/WebDriverRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/WebDriverRule.java" afterDir="false" />
     </list>
     <ignored path="out/" />
     <ignored path="target/" />
@@ -54,37 +41,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="TestExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/TestExample.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/TestExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="128">
+              <caret line="8" selection-start-line="8" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SeleniumFixture.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/SeleniumFixture.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/SeleniumFixture.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="272">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenshotRule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/ScreenshotRule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NeedFreshDriver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/annotations/NeedFreshDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwiceAttemptRule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TwiceAttemptRule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadCreation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/ThreadCreation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="WebDriverRule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/WebDriverRule.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/WebDriverRule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="341">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScreenshotRule.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/ScreenshotRule.java">
+      <file leaf-file-name="FreshDriverRule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/FreshDriverRule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="336">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -121,17 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/order/OrderExample1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/properties/testng-parameters.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/resources/testing/testng/parallel/testng-parallel.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/assertion/FirstTestClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/vk/Mapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/vk/Starter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/utils/properties/ReadProperties.java" />
-        <option value="$PROJECT_DIR$/src/main/java/utils/properties/PropertiesHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/tests/FirstTestClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/tests/FirstTestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/StandartActions.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/Sort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/StandardActions.java" />
@@ -168,10 +189,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/TemporaryFolderExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/TestNameExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/TestWatcherExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/SeleniumFixture.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/TestExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/WebDriverRule.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/ScreenshotRule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/SeleniumFixture.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/TestExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/single/TestExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/TestExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/FreshDriverRule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/NeedFreshDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/WebDriverRule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/SeleniumFixture.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/RunTwiceRule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/ThreadCreation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TwiceAttemptRule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/ThreadCreation.java" />
       </list>
     </option>
   </component>
@@ -198,23 +230,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaConspect" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaConspect" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaConspect" type="616d4139:PackageViewModuleNode" />
-              <item name="com.eis.conspect.java" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,6 +270,36 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadCreation.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,7 +333,47 @@
               <item name="testing" type="462c0819:PsiDirectoryNode" />
               <item name="junit" type="462c0819:PsiDirectoryNode" />
               <item name="rule" type="462c0819:PsiDirectoryNode" />
-              <item name="single" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="rule" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="rule" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="rule" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+              <item name="annotations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
@@ -302,57 +387,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: junit:junit:4.11" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: junit:junit:4.11" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.11.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: junit:junit:4.11" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.11.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: junit:junit:4.11" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.11.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: junit:junit:4.11" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.11.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="rules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: ru.yandex.qatools.ashot:ashot:1.5.4" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaConspect" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaConspect" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaConspect" type="616d4139:PackageViewModuleNode" />
+              <item name="com.eis.conspect.java" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Function&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/Function.java&#10;Suppl&#9;PSI&#9;JAVA://java.util.function.Supplier&#10;pom&#9;FILE&#9;file://C:/JavaFile/JavaConspect/pom.xml&#10;java.lang.String&#9;PSI&#9;JAVA://java.lang.String&#10;RequestAddCookies&#9;PSI&#9;JAVA://org.apache.http.client.protocol.RequestAddCookies&#10;FilenameUtils&#9;FILE&#9;jar://C:/Users/User/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar!/org/apache/commons/io/FilenameUtils.java&#10;StaticLoggerBinder&#9;PSI&#9;JAVA://org.slf4j.impl.StaticLoggerBinder&#10;Logg&#9;PSI&#9;JAVA://java.util.logging.Logger&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;gutter&#9;ACTION&#9;EditorToggleShowGutterIcons&#10;Seria&#9;FILE&#9;file://C:/JavaFile/JavaConspect/src/main/java/com/eis/conspect/java/serialization" />
+    <property name="SearchEverywhereHistoryKey" value="еркуфв&#9;FILE&#9;file://C:/JavaFile/JavaConspect/src/main/java/com/eis/conspect/java/se/multithreading&#10;Function&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/Function.java&#10;Suppl&#9;PSI&#9;JAVA://java.util.function.Supplier&#10;pom&#9;FILE&#9;file://C:/JavaFile/JavaConspect/pom.xml&#10;java.lang.String&#9;PSI&#9;JAVA://java.lang.String&#10;RequestAddCookies&#9;PSI&#9;JAVA://org.apache.http.client.protocol.RequestAddCookies&#10;FilenameUtils&#9;FILE&#9;jar://C:/Users/User/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar!/org/apache/commons/io/FilenameUtils.java&#10;StaticLoggerBinder&#9;PSI&#9;JAVA://org.slf4j.impl.StaticLoggerBinder&#10;Logg&#9;PSI&#9;JAVA://java.util.logging.Logger&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;gutter&#9;ACTION&#9;EditorToggleShowGutterIcons&#10;Seria&#9;FILE&#9;file://C:/JavaFile/JavaConspect/src/main/java/com/eis/conspect/java/serialization" />
     <property name="last_opened_file_path" value="C:/Development/Projects/Blue Owl/cicd-test" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
@@ -388,26 +448,60 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestExample.testExample">
+  <component name="RunManager" selected="Application.ThreadCreation">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="ThreadCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.se.multithreading.ThreadCreation" />
+      <module name="JavaConspect" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.se.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TemporaryFolderExample.testTempFolder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.testing.junit.rule.single.*" />
+          <option name="PATTERN" value="com.eis.conspect.java.testing.junit.rule.examples.second.annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.junit.rule" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.junit.rule.TemporaryFolderExample" />
-      <option name="METHOD_NAME" value="testTempFolder" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.junit.rule.examples.second" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.junit.rule.examples.second.TestClass" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestClass.unstableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.testing.junit.rule.examples.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.junit.rule.examples.second" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.junit.rule.examples.second.TestClass" />
+      <option name="METHOD_NAME" value="unstableTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -422,39 +516,16 @@
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.testing.junit.rule.single.*" />
+          <option name="PATTERN" value="com.eis.conspect.java.testing.junit.rule.examples.first.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.junit.rule.single" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.junit.rule.single.TestExample" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.junit.rule.examples.first" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.junit.rule.examples.first.TestExample" />
       <option name="METHOD_NAME" value="testExample" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestWatcherExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaConspect" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.testing.junit.rule.single.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.junit.rule" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.junit.rule.TestWatcherExample" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -468,7 +539,7 @@
       <module name="JavaConspect" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.testing.junit.rule.single.*" />
+          <option name="PATTERN" value="com.eis.conspect.java.testing.junit.rule.examples.first.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -513,35 +584,6 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="CollectorsMethods.testGroupingByPredicate (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaConspect" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.java8.stream.methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.CollectorsMethods" />
-      <option name="METHOD_NAME" value="testGroupingByPredicate" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -636,19 +678,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.CollectorsMethods.testGroupingByPredicate (1)" />
-      <item itemvalue="JUnit.TemporaryFolderExample.testTempFolder" />
-      <item itemvalue="JUnit.TestWatcherExample" />
       <item itemvalue="JUnit.TestWatcherExample.test" />
       <item itemvalue="JUnit.TestExample.testExample" />
+      <item itemvalue="JUnit.TestClass" />
+      <item itemvalue="JUnit.TestClass.unstableTest" />
+      <item itemvalue="Application.ThreadCreation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadCreation" />
+        <item itemvalue="JUnit.TestClass.unstableTest" />
+        <item itemvalue="JUnit.TestClass" />
         <item itemvalue="JUnit.TestExample.testExample" />
         <item itemvalue="JUnit.TestWatcherExample.test" />
-        <item itemvalue="JUnit.TestWatcherExample" />
-        <item itemvalue="JUnit.TemporaryFolderExample.testTempFolder" />
-        <item itemvalue="TestNG.CollectorsMethods.testGroupingByPredicate (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -733,28 +775,17 @@
       <option name="project" value="LOCAL" />
       <updated>1532464734963</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="JUnit rule topic">
+      <created>1532638735161</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1532638735162</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CollectorsMethods_testGroupingByPredicate - 2018.07.26 at 23h 39m 37s.xml">
-      <configuration name="CollectorsMethods.testGroupingByPredicate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestExample_testExample - 2018.07.26 at 23h 39m 37s.xml">
-      <configuration name="TestExample.testExample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestExample_testExample - 2018.07.26 at 23h 41m 38s.xml">
-      <configuration name="TestExample.testExample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestExample_testExample - 2018.07.26 at 23h 45m 54s.xml">
-      <configuration name="TestExample.testExample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestExample_testExample - 2018.07.26 at 23h 47m 25s.xml">
-      <configuration name="TestExample.testExample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestExample_testExample - 2018.07.26 at 23h 49m 34s.xml">
-      <configuration name="TestExample.testExample" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestExample_testExample - 2018.07.26 at 23h 49m 50s.xml">
       <configuration name="TestExample.testExample" configurationId="JUnit" />
     </history-entry>
@@ -766,6 +797,24 @@
     </history-entry>
     <history-entry file="TestExample_testExample - 2018.07.26 at 23h 52m 52s.xml">
       <configuration name="TestExample.testExample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestExample_testExample - 2018.07.26 at 23h 55m 29s.xml">
+      <configuration name="TestExample.testExample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestExample_testExample - 2018.07.26 at 23h 55m 51s.xml">
+      <configuration name="TestExample.testExample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestExample_testExample - 2018.07.26 at 23h 58m 04s.xml">
+      <configuration name="TestExample.testExample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass - 2018.07.28 at 13h 23m 29s.xml">
+      <configuration name="TestClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_unstableTest - 2018.07.28 at 13h 32m 23s.xml">
+      <configuration name="TestClass.unstableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_unstableTest - 2018.07.28 at 13h 33m 15s.xml">
+      <configuration name="TestClass.unstableTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -782,78 +831,56 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32929516" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32943678" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.40130863" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.38779956" />
       <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49862638" weight="0.32995737" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.30643404" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.43075246" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.40130863" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.23773174" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3653217" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4019608" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.24466951" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.2675906" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2835821" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" sideWeight="0.5058651" side_tool="true" weight="0.3671875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36750272" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36165577" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4019608" />
-      <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Favorites" order="5" sideWeight="0.5058651" side_tool="true" weight="0.3671875" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.23991276" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.29847494" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36165577" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.38779956" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32943678" />
-      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49862638" weight="0.32995737" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2803838" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.29847494" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.23991276" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2803838" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2835821" />
       <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.29847494" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36165577" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.4019608" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.38779956" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.23991276" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32943678" />
@@ -898,7 +925,8 @@
     <MESSAGE value="Stream add new topic" />
     <MESSAGE value="Stream add new terminal methods" />
     <MESSAGE value="Stream topic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream topic" />
+    <MESSAGE value="JUnit rule topic" />
+    <option name="LAST_COMMIT_MESSAGE" value="JUnit rule topic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -930,8 +958,8 @@
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/ScreenshotRule.java</url>
-          <line>28</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/ScreenshotRule.java</url>
+          <line>27</line>
           <properties />
           <option name="timeStamp" value="80" />
         </line-breakpoint>
@@ -1006,97 +1034,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/tests/FirstTestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/categories/FirstTestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/parameters/ParametersFieldsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/rest/unirest/vk/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/asserts/Assertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/assertion/FirstTestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/StandardActions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/IntConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/overloading/Example1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/overloading/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/primitive/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -1320,34 +1257,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/testExample.png">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/testExample.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/testExample365.png" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runner/Description.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="139" column="25" selection-start-line="139" selection-start-column="25" selection-end-line="139" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/annotation/Annotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/Parameterized.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="203" column="12" lean-forward="true" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/FreshDriverRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/TestExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/WebDriverRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/ScreenshotRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/unstableTest105.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/TestExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/unstableTest212.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="336">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/WebDriverRule.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/annotations/NeedFreshDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/SeleniumFixture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/SeleniumFixture.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TwiceAttemptRule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="96">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/ScreenshotRule.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/ThreadCreation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="138">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
