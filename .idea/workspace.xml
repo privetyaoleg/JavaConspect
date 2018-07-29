@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aaeb15e-e2e6-4603-acbd-bf06a2939f32" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/FreshDriverRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TwiceAttemptRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/annotations/NeedFreshDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Synchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/synchronizedd/SyncBlockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/volatilee/Volatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/volatilee/source/cacheCoherency.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/ThreadCreation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/ScreenshotRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/ScreenshotRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/SeleniumFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/SeleniumFixture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/TestExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/TestExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/single/WebDriverRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/WebDriverRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/ThreadCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/ThreadCreation.java" afterDir="false" />
     </list>
     <ignored path="out/" />
     <ignored path="target/" />
@@ -40,15 +36,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/TestExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" selection-start-line="8" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SeleniumFixture.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/SeleniumFixture.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,26 +84,48 @@
       <file leaf-file-name="ThreadCreation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/ThreadCreation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="192">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebDriverRule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/WebDriverRule.java">
+      <file leaf-file-name="Synchronized.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Synchronized.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            <state relative-caret-position="192">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FreshDriverRule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/FreshDriverRule.java">
+      <file leaf-file-name="Volatile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/volatilee/Volatile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="208">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SyncBlockExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/synchronizedd/SyncBlockExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" />
+                <marker date="1532891926866" expanded="true" signature="1767:1777" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="948">
+              <caret line="554" column="19" selection-start-line="554" selection-start-column="19" selection-end-line="554" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -140,6 +149,7 @@
       <find>/**</find>
       <find>people</find>
       <find>Files.copy</find>
+      <find>runnable</find>
     </findStrings>
     <replaceStrings>
       <replace>dbProperties</replace>
@@ -153,10 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/StandartActions.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/Sort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/array/sort/StandardActions.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/casting/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/tests/SecondTestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/suite/SuiteClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/fixtures/BaseFixtureClass.java" />
@@ -204,6 +210,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/ThreadCreation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TwiceAttemptRule.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/ThreadCreation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Synchronized.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Volatile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/volatilee/Volatile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/synchronizedd/SyncBlockExample.java" />
       </list>
     </option>
   </component>
@@ -281,6 +291,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="se" type="462c0819:PsiDirectoryNode" />
               <item name="multithreading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronizedd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
@@ -412,14 +433,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="еркуфв&#9;FILE&#9;file://C:/JavaFile/JavaConspect/src/main/java/com/eis/conspect/java/se/multithreading&#10;Function&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/Function.java&#10;Suppl&#9;PSI&#9;JAVA://java.util.function.Supplier&#10;pom&#9;FILE&#9;file://C:/JavaFile/JavaConspect/pom.xml&#10;java.lang.String&#9;PSI&#9;JAVA://java.lang.String&#10;RequestAddCookies&#9;PSI&#9;JAVA://org.apache.http.client.protocol.RequestAddCookies&#10;FilenameUtils&#9;FILE&#9;jar://C:/Users/User/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar!/org/apache/commons/io/FilenameUtils.java&#10;StaticLoggerBinder&#9;PSI&#9;JAVA://org.slf4j.impl.StaticLoggerBinder&#10;Logg&#9;PSI&#9;JAVA://java.util.logging.Logger&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;gutter&#9;ACTION&#9;EditorToggleShowGutterIcons&#10;Seria&#9;FILE&#9;file://C:/JavaFile/JavaConspect/src/main/java/com/eis/conspect/java/serialization" />
+    <property name="SearchEverywhereHistoryKey" value="Object&#9;PSI&#9;JAVA://java.lang.Object&#10;еркуфв&#9;FILE&#9;file://C:/JavaFile/JavaConspect/src/main/java/com/eis/conspect/java/se/multithreading&#10;Function&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/Function.java&#10;Suppl&#9;PSI&#9;JAVA://java.util.function.Supplier&#10;pom&#9;FILE&#9;file://C:/JavaFile/JavaConspect/pom.xml&#10;java.lang.String&#9;PSI&#9;JAVA://java.lang.String&#10;RequestAddCookies&#9;PSI&#9;JAVA://org.apache.http.client.protocol.RequestAddCookies&#10;FilenameUtils&#9;FILE&#9;jar://C:/Users/User/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar!/org/apache/commons/io/FilenameUtils.java&#10;StaticLoggerBinder&#9;PSI&#9;JAVA://org.slf4j.impl.StaticLoggerBinder&#10;Logg&#9;PSI&#9;JAVA://java.util.logging.Logger&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;gutter&#9;ACTION&#9;EditorToggleShowGutterIcons&#10;Seria&#9;FILE&#9;file://C:/JavaFile/JavaConspect/src/main/java/com/eis/conspect/java/serialization" />
     <property name="last_opened_file_path" value="C:/Development/Projects/Blue Owl/cicd-test" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testing\testng\run" />
-      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java\serialization\jaxb\files" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testing\testng\parallel" />
+      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testing\testng" />
+      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testng\testng" />
+      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java\se\casting" />
+      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java\se" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.eis.conspect.java.testing.junit.categories" />
@@ -428,12 +452,10 @@
       <recent name="com.eis.conspect.java.testing.testng.example1" />
       <recent name="com.eis.conspect.java.serialization.jaxb" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testing\testng\parallel" />
-      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testing\testng" />
-      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testng\testng" />
-      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java\se\casting" />
-      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java\se" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java\se\multithreading\volatilee\source" />
+      <recent name="C:\JavaFile\JavaConspect\src\test\java\resources\testing\testng\run" />
+      <recent name="C:\JavaFile\JavaConspect\src\main\java\com\eis\conspect\java\serialization\jaxb\files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -452,13 +474,24 @@
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
+    <configuration name="SyncBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.se.multithreading.synchronizedd.SyncBlockExample" />
+      <module name="JavaConspect" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.se.multithreading.synchronizedd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="ThreadCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.se.multithreading.ThreadCreation" />
       <module name="JavaConspect" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.se.multithreading.*" />
+          <option name="PATTERN" value="com.eis.conspect.java.se.multithreading.volatilee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -525,29 +558,6 @@
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.junit.rule.examples.first" />
       <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.junit.rule.examples.first.TestExample" />
       <option name="METHOD_NAME" value="testExample" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestWatcherExample.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaConspect" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.testing.junit.rule.examples.first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.testing.junit.rule" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.testing.junit.rule.TestWatcherExample" />
-      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -678,19 +688,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestWatcherExample.test" />
       <item itemvalue="JUnit.TestExample.testExample" />
       <item itemvalue="JUnit.TestClass" />
       <item itemvalue="JUnit.TestClass.unstableTest" />
       <item itemvalue="Application.ThreadCreation" />
+      <item itemvalue="Application.SyncBlockExample" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ThreadCreation" />
+        <item itemvalue="Application.SyncBlockExample" />
         <item itemvalue="JUnit.TestClass.unstableTest" />
         <item itemvalue="JUnit.TestClass" />
         <item itemvalue="JUnit.TestExample.testExample" />
-        <item itemvalue="JUnit.TestWatcherExample.test" />
       </list>
     </recent_temporary>
   </component>
@@ -782,7 +792,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532638735162</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="JUnit rule topic">
+      <created>1532783454091</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1532783454091</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -838,12 +855,12 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.38779956" />
       <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49862638" weight="0.32995737" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.23773174" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3653217" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.20610687" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.35877863" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.4019608" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2835821" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.2835821" />
       <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -963,8 +980,14 @@
           <properties />
           <option name="timeStamp" value="80" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/synchronizedd/SyncBlockExample.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="81" />
+      <option name="time" value="82" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1034,55 +1057,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/primitive/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/serialization/jaxb/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="769">
-          <caret line="67" column="28" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/optional/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.8.0/assertj-core-3.8.0-sources.jar!/org/assertj/core/api/Assertions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37568">
-          <caret line="2348" column="46" selection-start-line="2348" selection-start-column="46" selection-end-line="2348" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/ToIntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="1207" selection-start-line="1207" selection-end-line="1207" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/ReferencePipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="463" selection-start-line="463" selection-end-line="463" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/FindOps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -1342,13 +1316,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/SeleniumFixture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TwiceAttemptRule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -1356,10 +1323,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5824">
+          <caret line="364" column="19" lean-forward="true" selection-start-line="364" selection-start-column="19" selection-end-line="364" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="948">
+          <caret line="554" column="19" selection-start-line="554" selection-start-column="19" selection-end-line="554" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/first/SeleniumFixture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/volatilee/source/cacheCoherency.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/synchronizedd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/volatilee/Volatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/synchronizedd/SyncBlockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" />
+            <marker date="1532891926866" expanded="true" signature="1767:1777" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Synchronized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/ThreadCreation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="192">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>

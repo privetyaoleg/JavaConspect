@@ -14,6 +14,7 @@ public class ThreadCreation {
 
         Thread thread2 = new Thread(new MyThread1());
         thread2.start();
+
     }
 }
 
