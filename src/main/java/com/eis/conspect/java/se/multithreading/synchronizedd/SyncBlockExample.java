@@ -31,7 +31,7 @@ class Worker {
     private List list1 = new ArrayList();
     private List list2 = new ArrayList();
 
-    public void addToList1() {
+    private void addToList1() {
         synchronized (lock1) {
             try {
                 Thread.sleep(1);
@@ -42,7 +42,7 @@ class Worker {
         }
     }
 
-    public void addToList2() {
+    private void addToList2() {
         synchronized (lock2) {
             try {
                 Thread.sleep(1);
