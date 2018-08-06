@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aaeb15e-e2e6-4603-acbd-bf06a2939f32" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/annotations/SingleParameterDataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/fixtures/FixtureInjections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestDataProviderFromField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/other/idea/HotKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/comparator/CompareExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/comparator/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/synchronizedd/SyncBlockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/synchronizedd/SyncBlockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/volatilee/Volatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/volatilee/Volatile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java" afterDir="false" />
     </list>
     <ignored path="out/" />
     <ignored path="target/" />
@@ -41,7 +36,7 @@
       <file leaf-file-name="DataProviders.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="16">
               <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
             </state>
           </provider>
@@ -51,16 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProviders.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestWithParametersFromXML.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromXML.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -69,16 +55,43 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestDataProviderFromField.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestDataProviderFromField.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestDataProviderFromField.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+            <state relative-caret-position="368">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/comparator/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompareExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/comparator/CompareExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comparator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-284">
+              <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -101,29 +114,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestFixtures.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/fixtures/TestFixtures.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FixtureInjections.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/fixtures/FixtureInjections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
+            <state relative-caret-position="656">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuppressWarnings.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/SuppressWarnings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -161,9 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/serialization/jaxb/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/optional/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/CreatingStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/CreationStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/java8/stream/creation/CreationStream.java" />
@@ -212,6 +204,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/annotations/SingleParameterDataSource.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestDataProviderFromField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/comparator/CompareExamle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/comparator/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/comparator/CompareExample.java" />
       </list>
     </option>
   </component>
@@ -240,6 +235,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,30 +286,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="se" type="462c0819:PsiDirectoryNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="se" type="462c0819:PsiDirectoryNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="synchronizedd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="se" type="462c0819:PsiDirectoryNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="synchronizedd" type="462c0819:PsiDirectoryNode" />
-              <item name="SyncBlockExample.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="comparator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
@@ -323,77 +296,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="fixtures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="rule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="rule" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="rule" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="rule" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-              <item name="annotations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
@@ -404,40 +306,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testing" type="462c0819:PsiDirectoryNode" />
               <item name="testng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-              <item name="fixtures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-              <item name="parameters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-              <item name="parameters" type="462c0819:PsiDirectoryNode" />
-              <item name="dataProvider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
@@ -534,6 +402,14 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -554,7 +430,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -595,7 +470,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestDataProviderFromField.testWithParameters">
+  <component name="RunManager" selected="TestNG.CompareExample.testExample">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -678,6 +553,35 @@
       <option name="PACKAGE_NAME" value="com.eis.conspect.java.java8.stream.methods" />
       <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.java8.stream.methods.CollectorsMethods" />
       <option name="METHOD_NAME" value="testGroupingByPredicate" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="CompareExample.testExample" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaConspect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eis.conspect.java.se.comparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.eis.conspect.java.se.comparator" />
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.se.comparator.CompareExample" />
+      <option name="METHOD_NAME" value="testExample" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -780,35 +684,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Starter.test (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaConspect" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.rest.unirest.vk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.eis.conspect.java.rest.unirest.vk" />
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.rest.unirest.vk.Starter" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="TestDataProviderFromField.testWithParameters" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaConspect" />
       <extension name="coverage">
@@ -863,15 +738,15 @@
     <list>
       <item itemvalue="JUnit.FixtureInjections" />
       <item itemvalue="TestNG.FixtureInjections" />
-      <item itemvalue="TestNG.FixtureInjections.testOne" />
       <item itemvalue="TestNG.FixtureInjections.testTwo" />
       <item itemvalue="TestNG.TestDataProviderFromField.testWithParameters" />
+      <item itemvalue="TestNG.CompareExample.testExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CompareExample.testExample" />
         <item itemvalue="TestNG.TestDataProviderFromField.testWithParameters" />
         <item itemvalue="TestNG.FixtureInjections.testTwo" />
-        <item itemvalue="TestNG.FixtureInjections.testOne" />
         <item itemvalue="TestNG.FixtureInjections" />
         <item itemvalue="JUnit.FixtureInjections" />
       </list>
@@ -986,13 +861,17 @@
       <option name="project" value="LOCAL" />
       <updated>1532979805364</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="TestNG">
+      <created>1533492457017</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1533492457017</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestExample_testWithParameters - 2018.07.30 at 22h 00m 08s.xml">
-      <configuration name="TestExample.testWithParameters" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestExample_testWithParameters - 2018.07.30 at 22h 00m 48s.xml">
       <configuration name="TestExample.testWithParameters" configurationId="TestNG" />
     </history-entry>
@@ -1020,6 +899,9 @@
     <history-entry file="TestDataProviderFromField_testWithParameters - 2018.08.05 at 20h 46m 11s.xml">
       <configuration name="TestDataProviderFromField.testWithParameters" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CompareExample_testExample - 2018.08.06 at 23h 22m 34s.xml">
+      <configuration name="CompareExample.testExample" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1042,25 +924,25 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.38779956" />
       <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49862638" weight="0.32995737" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.25517994" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.39367503" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.2519084" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.39367503" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.40130863" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.24840085" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.28198293" />
       <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" sideWeight="0.5058651" side_tool="true" weight="0.3671875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36095965" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36095965" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1103,7 +985,8 @@
     <MESSAGE value="JUnit rule topic" />
     <MESSAGE value="Multithreading" />
     <MESSAGE value="Multithreading + JUnit factory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multithreading + JUnit factory" />
+    <MESSAGE value="TestNG" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestNG" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1140,8 +1023,14 @@
           <properties />
           <option name="timeStamp" value="80" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/comparator/CompareExample.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="83" />
+      <option name="time" value="84" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1151,6 +1040,16 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>user2.compareTo(user1);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>user1.compareTo(user2);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>m.getAnnotations()</expression-string>
         <language-id>JAVA</language-id>
@@ -1186,16 +1085,6 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>description.getTestClass().getPackage().getClass()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>description.getTestClass().getPackage().getPackageInfo()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
     </expressions>
     <expressions id="watch">
       <expression>
@@ -1211,27 +1100,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runner/Description.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="139" column="25" selection-start-line="139" selection-start-column="25" selection-end-line="139" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/annotation/Annotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/Parameterized.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="203" column="12" lean-forward="true" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/FreshDriverRule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1260,12 +1128,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/unstableTest105.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/unstableTest212.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/unstableTest105.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/unstableTest212.png" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/rule/examples/second/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1304,13 +1168,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/volatilee/source/cacheCoherency.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/synchronizedd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/multithreading/synchronizedd.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/parameters/ParametersFieldsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1468,10 +1326,6 @@
         <state relative-caret-position="-128">
           <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          <folding>
-            <element signature="imports" />
-            <marker date="1533062809881" expanded="true" signature="1965:1975" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1491,14 +1345,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/junit/fixtures/TestFixtures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="416">
+          <caret line="26" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/SuppressWarnings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
+        <state relative-caret-position="848">
           <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
         </state>
       </provider>
@@ -1513,7 +1367,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1526,7 +1380,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/fixtures/FixtureInjections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
+        <state relative-caret-position="656">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
@@ -1538,24 +1392,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProviders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/dataProvider/DataProviders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="16">
           <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestWithParametersFromDataProviders.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="49" />
+        <state relative-caret-position="-284">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/testing/testng/parameters/TestDataProviderFromField.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="368">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/comparator/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/se/comparator/CompareExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
