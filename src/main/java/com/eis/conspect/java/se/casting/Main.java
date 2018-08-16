@@ -20,10 +20,10 @@ public class Main {
 		 */
 
         int x = 100;
-        short s = (short) x; 			// следует явно указывать, так как int > short;
+        short s = (short) x;            // следует явно указывать, так как int > short;
 
         short s2 = 20;
-        int x2 = s2;					// преобразование происходит неявно
+        int x2 = s2;                    // преобразование происходит неявно
 
         long x3 = 20;
 

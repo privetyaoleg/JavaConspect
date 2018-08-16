@@ -2,9 +2,7 @@ package com.eis.conspect.java.se.comparator;
 
 import org.testng.annotations.Test;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 
 public class CompareExample {
 
@@ -22,12 +20,14 @@ public class CompareExample {
             if (u1.getAge() == u2.getAge()) {
                 return 0;
             }
-            return (u1.getAge() > u2.getAge()) ? 1 : -1;
+            return (u1.getAge() > u2.getAge()) ? -1 : 1;
         };
 
         user1.compareTo(user2);
 
-        userList.forEach(System.out::println);
+        userList.sort(userComparator);
+
+        System.out.println(userList.toString());
 
     }
 }

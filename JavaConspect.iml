@@ -124,5 +124,6 @@
     <orderEntry type="library" name="Maven: com.github.rholder:guava-retrying:2.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.directory.studio:org.apache.commons.io:2.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.6" level="project" />
+    <orderEntry type="library" name="Maven: one.util:streamex:0.6.7" level="project" />
   </component>
 </module>

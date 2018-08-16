@@ -35,11 +35,20 @@ public class User implements Comparable {
     }
 
     @Override
+    public String toString() {
+        return "User{" +
+                "age=" + age +
+                ", name='" + name + '\'' +
+                ", grade=" + grade +
+                '}';
+    }
+
+    @Override
     public int compareTo(Object o) {
         if (this.getAge() > ((User) o).getAge()) {
-            return 1;
-        } else if (this.getAge() < ((User) o).getAge()) {
             return -1;
+        } else if (this.getAge() < ((User) o).getAge()) {
+            return 1;
         } else {
             return 0;
         }
