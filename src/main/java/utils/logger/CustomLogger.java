@@ -15,6 +15,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class CustomLogger {
+
     private static final ThreadLocal<String> LOG_FILE_PATH = new ThreadLocal();
     private static final String LOG_DIR_NAME = "LOG";
 
