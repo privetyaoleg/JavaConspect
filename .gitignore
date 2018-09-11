@@ -4,3 +4,4 @@
 .venv/
 .target/
 .workspace.xml
+.main/java/Main.java
