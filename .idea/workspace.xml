@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aaeb15e-e2e6-4603-acbd-bf06a2939f32" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/iterators/FacebookIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/iterators/LinkedInIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/iterators/ProfileIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/profile/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/LinkedIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/SocialNetwork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/spammer/SocialSpammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/AddButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/DeleteButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/SaveButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/Title.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Note.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="out/" />
@@ -40,41 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LinkedInIterator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/iterators/LinkedInIterator.java">
+      <file leaf-file-name="SaveButton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/SaveButton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1553#1554#0" expanded="true" />
-                <element signature="e#1588#1589#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Profile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/profile/Profile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-151">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1111#1112#0" expanded="true" />
-                <element signature="e#1139#1140#0" expanded="true" />
-                <element signature="e#1170#1171#0" expanded="true" />
-                <element signature="e#1197#1198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Facebook.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/Facebook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+            <state relative-caret-position="208">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,20 +55,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SocialNetwork.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/SocialNetwork.java">
+      <file leaf-file-name="TextBox.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/TextBox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="192">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedIn.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/LinkedIn.java">
+      <file leaf-file-name="Title.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/Title.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="368">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Editor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Editor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-503">
+              <caret line="133" column="23" lean-forward="true" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,10 +92,10 @@
         </entry>
       </file>
       <file leaf-file-name="Runner.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/Runner.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="304">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,11 +103,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SocialSpammer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/spammer/SocialSpammer.java">
+      <file leaf-file-name="Note.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Note.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="96">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mediator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Mediator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,18 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/decorator/decorators/FileDataSource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/decorator/decorators/DataSourceDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/decorator/decorators/CompressionDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/decorator/Runner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/decorator/decorators/EncryptionDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/VideoFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/codecs/MPEG4CompressionCodec.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/codecs/Codec.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/codecs/OggCompresionCodec.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/codecs/CodecFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/BitrateReader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/AudioMixer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/facade/VideoConversionFacade.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/Runner.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/flyweight/trees/Tree.java" />
@@ -215,6 +200,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/profile/Profile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/SocialNetwork.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/LinkedIn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/AddButon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/DeleteButton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/Filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/SaveButton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/TextBox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/Title.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Editor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Note.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/Component.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/List.java" />
       </list>
     </option>
   </component>
@@ -225,7 +222,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="y" value="46" />
     <option name="width" value="974" />
     <option name="height" value="1041" />
@@ -322,7 +319,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
               <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
@@ -333,8 +330,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
               <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="iterators" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
@@ -345,32 +342,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
               <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="profile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="socials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaConspect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaConspect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="spammer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="mediator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -416,7 +389,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Runner (4)">
+  <component name="RunManager" selected="Application.Runner (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -436,13 +409,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Runner (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.patterns.structural.proxy.Runner" />
+    <configuration name="Runner (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eis.conspect.java.patterns.behavioral.controller.Runner" />
       <module name="JavaConspect" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.eis.conspect.java.patterns.structural.proxy.*" />
+          <option name="PATTERN" value="com.eis.conspect.java.patterns.behavioral.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -592,19 +565,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Runner (3)" />
       <item itemvalue="Application.Runner" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Runner (1)" />
       <item itemvalue="Application.Runner (4)" />
+      <item itemvalue="Application.Runner (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner (2)" />
         <item itemvalue="Application.Runner (4)" />
         <item itemvalue="Application.Runner (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.Runner (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -815,7 +788,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536692357039</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Patterns update">
+      <created>1536694033546</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1536694033546</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -872,11 +852,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.25137213" />
       <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49862638" weight="0.32995737" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" visible="true" weight="0.26783755" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.26015368" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.37211856" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.28353328" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.25479743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49137932" visible="true" weight="0.28091684" />
       <window_info anchor="right" id="Structure" order="9" sideWeight="0.50137365" side_tool="true" weight="0.32889125" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -1116,97 +1096,6 @@ System.out.println(Integer.toBinaryString(651 &amp; 1));</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/decorator/decorators/FileDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/decorator/decorators/EncryptionDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/decorator/decorators/CompressionDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/decorator/decorators/DataSourceDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/decorator/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/codecs/MPEG4CompressionCodec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/codecs/Codec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/codecs/OggCompressionCodec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/BitrateReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/codecs/CodecFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/facade/VideoConversionFacade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/AudioMixer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/facade/libraries/VideoFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/structural/flyweight/trees/TreeType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1494,16 +1383,6 @@ System.out.println(Integer.toBinaryString(651 &amp; 1));</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/iterators/FacebookIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/iterators/LinkedInIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
@@ -1519,7 +1398,7 @@ System.out.println(Integer.toBinaryString(651 &amp; 1));</expression-string>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/profile/Profile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-151">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1111#1112#0" expanded="true" />
@@ -1540,23 +1419,6 @@ System.out.println(Integer.toBinaryString(651 &amp; 1));</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/spammer/SocialSpammer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/SocialNetwork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/LinkedIn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1567,10 +1429,158 @@ System.out.println(Integer.toBinaryString(651 &amp; 1));</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/socials/SocialNetwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/spammer/SocialSpammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/iterators/FacebookIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/iterator/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/AddButton.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/DeleteButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/javax/swing/DefaultListModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/SaveButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/TextBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/components/Title.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Editor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-503">
+          <caret line="133" column="23" lean-forward="true" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/mediator/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eis/conspect/java/patterns/behavioral/controller/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
