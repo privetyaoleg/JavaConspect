@@ -1,44 +1,27 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class Main {
 
     public static void main(String[] args) {
 
-        int a = 5;
-        int b = 18;
+        int lines = 119;
 
-        List<Integer> oddNumbers = getOddNumbers(a, b);
-        for (int i = 0; i < oddNumbers.size(); i++) {
-            System.out.println(oddNumbers.get(i));
-        }
+        int maxSymbols = lines * 2 - 1;
+        int indexMiddleElement = (maxSymbols - 1) / 2;
 
-    }
+        String[] line = fillInArray(new String[maxSymbols]);
+        line[indexMiddleElement] = "*";
 
-    private static void printOddNumbers(int a, int b) {
-        while (a < b) {
-            if (a++ % 2 == 1) {
-                System.out.println(a);
-            }
+        for (int writeIndex = 0; writeIndex < lines; writeIndex++) {
+            line[indexMiddleElement - writeIndex] = "*";
+            line[indexMiddleElement + writeIndex] = "*";
+            System.out.println(String.join("", line));
         }
     }
 
-    private static List<Integer> getOddNumbers(int a, int b) {
-        List<Integer> oddNumbers = new ArrayList<>();
-        while (a < b) {
-            if (++a % 2 == 1) {
-                oddNumbers.add(a);
-            }
+    private static String[] fillInArray(String[] arr) {
+        String[] newArray = arr;
+        for (int i = 0; i < newArray.length; i++) {
+            newArray[i] = " ";
         }
-        return oddNumbers;
+        return newArray;
     }
-
-    private static int getSumNumbers(int a, int b) {
-        int result = 0;
-        while (++a < b) {
-            result += a;
-        }
-        return result;
-    }
-
 }
