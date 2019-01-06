@@ -8,6 +8,7 @@ import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 import static toolkit.verification.CustomAssertions.assertThat;
@@ -59,6 +60,15 @@ public class Example1 {
         Map<String, Double> countryAverageAge = persons.stream().collect(Collectors.groupingBy(Person::getCountry,
                 Collectors.averagingDouble(Person::getAge)));
 
+
+        String firstWord = "hello";
+        String secondWord = "lloeh";
+        String thirdWord = "llloenn";
+
+        Map<Character, Long> collect1 = firstWord.chars().mapToObj(i->(char)i).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+        Map<Character, Long> collect2 = secondWord.chars().mapToObj(i->(char)i).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+        Map<Character, Long> collect3 = thirdWord.chars().mapToObj(i->(char)i).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+        Map<Character, Long> collect4 = thirdWord.chars().mapToObj(i->(char)i).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
     }
 
